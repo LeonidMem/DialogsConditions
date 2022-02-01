@@ -1,0 +1,5 @@
+name: DialogsConditions
+main: ru.leonidm.dialogs.conditions.DialogsConditions
+version: 1.0
+author: LeonidM
+api-version: 1.13
